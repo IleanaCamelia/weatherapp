@@ -1,6 +1,10 @@
 # Weather App 🌦️
 
 A simple weather forecast application built with HTML, CSS, JavaScript and Leaflet.js.
+## 🌤️ Live Demo
+
+[Click to view the project](https://ileanacamelia.github.io/weatherapp/)
+
 
 ## 🌍 Features
 - Real-time weather data  
