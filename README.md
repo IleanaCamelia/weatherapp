@@ -33,3 +33,12 @@ A simple weather forecast application built with HTML, CSS, JavaScript and Leafl
 
 
 # WeatherAPP
+
+---
+
+## 👩‍💼 Author  
+**Ileana Camelia Cilioaica**  
+Mallorca, Spain  
+[cilioaica.camelia@gmail.com](mailto:cilioaica.camelia@gmail.com)
+
+--
